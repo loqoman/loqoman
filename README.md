@@ -24,7 +24,7 @@ While a lot of my background has been in software enginneirng, I've recently dev
  - <TODO>
 
   
-  <em>&#13;&#10; N.B not all listed projects were completed entirely by me. Many were collaborative endevors and attribution has been given given when appropriate.</em>
+  <em>&#13;&#10; N.B not all listed projects were completed entirely by me. Many were collaborative endevors and attribution has been given when appropriate.</em>
 </details>
     
     
