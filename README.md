@@ -3,6 +3,11 @@ Hello! My name is Darwin Clark I'm currently pursing an undergraduate co-op degr
 While a lot of my background has been in software enginneirng, I've recently devloped a strong passion for embedded development and PCB design. In particular, I have been been teaching myself C/C++, Kicad, and bench electronics skills. Over the years, I've been a part of several large Python projects and have a basic farmilarity with R.
 
 <details>
+ <summary><b>What I'm currently working on</b></summary>
+ ### <TODO>
+</details>
+ 
+<details>
  <summary><b>Projects / work I'm particuly proud of</b></summary>
     
  ### *2021*
