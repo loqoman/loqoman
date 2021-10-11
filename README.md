@@ -3,13 +3,23 @@
 While a lot of my background has been in software engineering, I've recently narrowed my focus into systems enginnering, embedded development, and PCB design. In particular, I've been been teaching myself C/C++, EDA tools such as Kicad and Altium, and bench electronics skills. 
 
 ---
-
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loqoman&layout=compact&theme=dark&langs_count=6&custom_title=top-languages&card_width=255&hide=Jupyter%20notebook,Java"/>
   &nbsp; &nbsp; &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=loqoman&theme=dark&custom_title=Github Stats&include_all_commits=true&hide=issues"/>
 </p>
+
+<details>
+ <summary><b>How to Browse my Github</b></summary>
+  
+  
+ <em>&#13;&#10;I.E How my Github is set up and things to keep in mind when exploring </em>
+  - The repositories that are 'pinned' represent my most relevent work and are the best judge of my current skill level 
+  - The challenge with my Github is that it represents a professional face for my technical work but is also a personal place to sahre my hobbies. Sometimes these two goals are at odds, most of the time they arn't
+  - Any repository marked `[LANG]` is being used for storage and documentation of code written as part of learning a new language or tool. Do not expect fully-documented commits or clean code. Any code checked into these repositories does not represent my current up-to-date knowledge on the subject
+  - Similarly, any repository marked `[DEPRECATED]` was once a project, but is now only being saved for postarity
+</details>
+
 
 <details>
  <summary><b>What I'm currently working on</b></summary>
@@ -46,7 +56,7 @@ While a lot of my background has been in software engineering, I've recently nar
   <em>&#13;&#10; N.B not all listed projects were completed entirely by me. Many were collaborative endevors and attribution has been given when appropriate.</em>
 </details>
     
-    
+
    
  
 <details>
