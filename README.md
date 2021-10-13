@@ -10,7 +10,7 @@ While a lot of my background has been in software engineering, I've recently nar
 </p>
 
 <details>
- <summary><b>How to Browse my Github</b></summary>
+ <summary><b>How to browse my Github</b></summary>
   
   
  <em>&#13;&#10;I.E How my Github is set up and things to keep in mind when exploring </em>
