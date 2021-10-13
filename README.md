@@ -1,6 +1,6 @@
 **Hey there!** My name is Darwin Clark I'm currently pursing an undergraduate co-op degree in computer engineering at the University of Waterloo after graduating from Bainbridge Island High School in 2021.
 
-While a lot of my background has been in software engineering, I've recently narrowed my focus into systems engineering, embedded development, and PCB design. In particular, I've been been teaching myself C/C++, EDA tools such as Kicad and Altium, and bench electronics skills. 
+While a lot of my background has been in software engineering, I've recently narrowed my focus into systems engineering, embedded programming, and PCB design. In particular, I've been been teaching myself C/C++, EDA tools such as Kicad and Altium, and bench electronics skills. 
 
 ---
 <p align="center">
