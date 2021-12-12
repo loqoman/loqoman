@@ -4,9 +4,9 @@ While a lot of my background has been in software engineering, I've recently nar
 
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loqoman&layout=compact&theme=dark&langs_count=6&custom_title=top-languages&card_width=255&hide=Jupyter%20notebook,Java"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loqoman&layout=compact&theme=dark&langs_count=6&custom_title=top-languages&card_width=255&hide=Jupyter%20notebook,Java"/>
   &nbsp; &nbsp; &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loqoman&theme=dark&custom_title=Github Stats&include_all_commits=true&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loqoman&theme=dark&custom_title=Github Stats&include_all_commits=true&hide=issues"/>
 </p>
 
 <details>
