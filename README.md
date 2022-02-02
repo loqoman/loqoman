@@ -2,15 +2,8 @@
 
 While a lot of my background has been in software engineering, I've recently narrowed my focus into systems engineering, embedded programming, and PCB design. In particular, I've been been teaching myself C/C++, EDA tools such as Kicad and Altium, and bench electronics skills. 
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loqoman&layout=compact&theme=dark&langs_count=6&custom_title=top-languages&card_width=255&hide=Jupyter%20notebook,Java"/>
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=loqoman&theme=dark&custom_title=Github Stats&include_all_commits=true&hide=issues"/>
-</p>
-
 <details>
- <summary><b>How to browse my Github</b></summary>
+ <summary><b>How to Browse my Github</b></summary>
   
   
  <em>&#13;&#10;I.E How my Github is set up and things to keep in mind when exploring </em>
@@ -22,17 +15,17 @@ While a lot of my background has been in software engineering, I've recently nar
 
 
 <details>
- <summary><b>What I'm currently working on</b></summary>
+ <summary><b>What I'm Currently Working on</b></summary>
  
   - My 1A term as an undergraduate computer enginnering student at the University of Waterloo
   - The 'Learn to Design your own board' course at ([FEDEVEL Academy](https://academy.fedevel.com/))
   - An embedded digital drum kit based around analog oscilators 
 </details>
  
----
+
 
 <details>
- <summary><b>Projects / work I'm particuly proud of</b></summary>
+ <summary><b>Projects / Work I'm Particuly Proud of</b></summary>
     
  ### *2021*
  - Collaborated with head roaster of Pegasus Coffee company to integrate graphical analysis with roasting process
@@ -57,11 +50,11 @@ While a lot of my background has been in software engineering, I've recently nar
 </details>
     
 
-   
+---
  
 <details>
- <summary><b>Attribution</b></summary>
-
+ <summary><b>Attribution/Colophon</b></summary>
+  
   - Format inspired by ([Pietroglyph's README](https://github.com/pietroglyph/pietroglyph/tree/50b58cc56d73a4b18d6976992da907d0e867ecb2))
   - Title cards from ([Brandon-Vo's README](https://github.com/brandon-vo/brandon-vo/blob/main/README.md))
 </details>
