@@ -4,6 +4,7 @@ While a lot of my background has been in software engineering, I've recently nar
 
 <details>
  <summary><b>Projects / Work I'm Particularly Proud of</b></summary>
+ 
  ### *2022*
  - Designed a theoretical high-efficiency buck converter for use on WARG competition drone ([spreadsheet](https://docs.google.com/spreadsheets/d/1IrWaX9436vcKAeru4SNB5D6RGHlH2eQq0TntfMsNFoI/edit?usp=sharing))
  - Finished a 4-month internship at Ford of Canada developing informatinment software (kotlin/java)
