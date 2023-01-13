@@ -5,11 +5,16 @@ While a lot of my background has been in software engineering, I've recently nar
 <details>
  <summary><b>Projects / Work I'm Particularly Proud of</b></summary>
  
+ ### *2023*
+ - More to come...
+
  ### *2022*
+ 
  - Designed a theoretical high-efficiency buck converter for use on WARG competition drone ([spreadsheet](https://docs.google.com/spreadsheets/d/1IrWaX9436vcKAeru4SNB5D6RGHlH2eQq0TntfMsNFoI/edit?usp=sharing))
  - Finished a 4-month internship at Ford of Canada developing infotainment software (kotlin/java)
- - And more to come...
-
+ - Selected IO port configuration on STM32L5 as part of the third iteration of the flight computer board (Altium)
+ - Implemented FSM as part of ECE 124 (Digital Logic) final project to simulate air conditioning unit (VHDL) 
+ - Developed hardware-software interface for next-generation of testing fixtures at ([Pure WaterCraft](https://www.purewatercraft.com/))
  ### *2021*
  - Collaborated with head roaster of Pegasus Coffee company to integrate graphical analysis with roasting process ([R](git@github.com:loqoman/pegasusInternship2021.git))
  - Assisted part-time with assembly and embedded systems prototyping for ([RipeLocker LLC](https://ripelocker.com/))
@@ -35,5 +40,6 @@ While a lot of my background has been in software engineering, I've recently nar
  
 <details>
  <summary><b>Attribution/Colophon</b></summary>
-  - Format inspired by ([Pietroglyph's README](https://github.com/pietroglyph/pietroglyph/tree/50b58cc56d73a4b18d6976992da907d0e867ecb2))
+ 
+  - Format inspired by [Pietroglyph's README](https://github.com/pietroglyph/pietroglyph/tree/50b58cc56d73a4b18d6976992da907d0e867ecb2)
 </details>
