@@ -16,6 +16,7 @@ While a lot of my background has been in software engineering, I've recently nar
  - Implemented FSM as part of ECE 124 (Digital Logic) final project to simulate air conditioning unit (VHDL) 
  - Developed hardware-software interface for next-generation of testing fixtures at ([Pure WaterCraft](https://www.purewatercraft.com/))
  ### *2021*
+ - Designed and assembled small form-factor PCB based around 10-bit ADC as part of firmware bootcamp for WARG team members (Altium)
  - Collaborated with head roaster of Pegasus Coffee company to integrate graphical analysis with roasting process ([R](git@github.com:loqoman/pegasusInternship2021.git))
  - Assisted part-time with assembly and embedded systems prototyping for ([RipeLocker LLC](https://ripelocker.com/))
    - Later went on to design a proof-of-concept low-power BLE device to measure in-chamber respiration data ([C++/PlatformIO](https://github.com/loqoman/ripeLockerBLE))
@@ -26,7 +27,7 @@ While a lot of my background has been in software engineering, I've recently nar
     
  - Collected and graphically analyzed public CWOP temperature data for 2020 ASA Poster Submission ([R/GGPlot2](https://github.com/loqoman/ripeLockerBLE))
  - Developed the framework for a FRC-code compatible wireless-enabled Tetrix bot for new member training([C++/Embedded](https://github.com/loqoman/SpartronicsAutonTetrix))
- - Made my first foray into PCB design with a AVR328-based 'badge' to be worn by drive team members at competition ([kicad](https://github.com/loqoman/SpartronicsBadge)) 
+ - Made first foray into PCB design with a AVR328-based 'badge' to be worn by drive team members at competition ([kicad](https://github.com/loqoman/SpartronicsBadge)) 
     
  ### *2019*
  - Under the supervision of mentor Ted Larson-Freeman, supported robotics drive team by providing live data analytics during competition ([R/Python](https://github.com/loqoman/4915DataProcessing))
