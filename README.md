@@ -1,12 +1,14 @@
 **Hey there!** My name is Darwin Clark I'm currently pursing an undergraduate co-op degree in computer engineering at the University of Waterloo after graduating from Bainbridge Island High School in 2021.
 
-While a lot of my background has been in software engineering, I've recently narrowed my focus into systems engineering, embedded programming, and PCB design. Specifically, I've been been developing my C, C++, Altium, and VHDL skills. I hope to apply these skills in areas such firmware and driver development, and general-purpose embedded systems work.
+I have over 1.5 years of internship experience across 5 different companies in industries such as consumer electronics, automotive, and defence. My technical focus is in systems engineering, embedded design, and PCBA design. Specifically, I have intimate knowledge of C, C++, Altium, and VHDL. I hope to apply these skills in areas such as driver development, board bringup, and general-purpose embedded systems work.
 
 <details>
  <summary><b>Projects / Work I'm Particularly Proud of</b></summary>
  
  ### *2023*
- - More to come...
+ - Contributed to testing and documentation of FatFS based SD card drive for WARG flight computer ([C](https://github.com/UWARG/LaminarOS/tree/drivers/SD_Card/LOS_Driver))
+ - Completed 4-month internship at Anduril Inductries developing Avoinics hardware and firmware ([Anduril](https://www.anduril.com/))
+ - Developed firmware and controls for 200W battery emulation platform, used for EOL and DVT testing (C/Altium)
 
  ### *2022*
  
@@ -15,6 +17,7 @@ While a lot of my background has been in software engineering, I've recently nar
  - Selected IO port configuration on STM32L5 as part of the third iteration of the flight computer board (Altium)
  - Implemented FSM as part of ECE 124 (Digital Logic) final project to simulate air conditioning unit (VHDL) 
  - Developed hardware-software interface for next-generation of testing fixtures at ([Pure WaterCraft](https://www.purewatercraft.com/))
+
  ### *2021*
  - Designed and assembled small form-factor PCB based around 10-bit ADC as part of firmware bootcamp for WARG team members (Altium)
  - Collaborated with head roaster of Pegasus Coffee company to integrate graphical analysis with roasting process ([R](git@github.com:loqoman/pegasusInternship2021.git))
