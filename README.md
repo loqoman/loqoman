@@ -1,13 +1,22 @@
-**Hey there!** My name is Darwin Clark I'm currently pursing an undergraduate co-op degree in computer engineering at the University of Waterloo after graduating from Bainbridge Island High School in 2021.
+**Hey there!** My name is Darwin Clark I'm currently pursing an undergraduate co-op degree in computer engineering at the University of Waterloo where I expect to graduate in early 2026.
 
-I have over 1.5 years of internship experience across 5 different companies in industries such as consumer electronics, automotive, and defence. My technical focus is in systems engineering, embedded design, and PCBA design. Specifically, I have intimate knowledge of C, C++, Altium, and VHDL. I hope to apply these skills in areas such as driver development, board bringup, and general-purpose embedded systems work.
+I have over 2 years of internship experience across 7 different companies in industries such as consumer electronics, automotive, and defence. My technical focus is in systems engineering, embedded design, and PCBA design. Specifically, I have intimate knowledge of Altium, Circuit Design, and C. I hope to apply these skills in areas such as driver development, board bringup, and general-purpose embedded systems work.
 
 <details>
  <summary><b>Projects / Work I'm Particularly Proud of</b></summary>
  
+ ### *2025*
+ - Complted 4-month electrical engineering internship at Arista Networks, owning end-to-end development of SyncE timing module ([Arista Networks](https://www.arista.com/en/))
+ 
+ ### *2024*
+ - Completed 4-month electrical engineering internship at Figure AI working on multiple PCBAs ranging from development to production at various stages of the design process such as simulation, schematic capture, and layout ([Figure AI](https://www.figure.ai/))
+ - Simulated and implemented low-power zener diode-based power detection circuit for forearm power module (LTSpice/Altium)
+ - Designed USB-connected development board designed to program all acuators in humanoid robot (Python/Altium)
+ - Began redesign of 3U cubesat solar panel module including higher-efficiency solar cells and improved sun sensor (Altium)
+
  ### *2023*
  - Contributed to testing and documentation of FatFS based SD card drive for WARG flight computer ([C](https://github.com/UWARG/LaminarOS/tree/drivers/SD_Card/LOS_Driver))
- - Completed 4-month internship at Anduril Inductries developing Avoinics hardware and firmware ([Anduril](https://www.anduril.com/))
+ - Completed 4-month internship at Anduril Industries developing Avoinics hardware and firmware ([Anduril](https://www.anduril.com/))
  - Developed firmware and controls for 200W battery emulation platform, used for EOL and DVT testing (C/Altium)
 
  ### *2022*
